@@ -7,6 +7,8 @@ def add(z1,z2):
     y = x2+y2
     return complex(x,y)
 
+
+a="hello world"
 def multiply(z1,z2):
     x1 = z1.real
     y1 = z1.imag
